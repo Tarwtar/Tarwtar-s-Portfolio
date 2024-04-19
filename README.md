@@ -1,16 +1,21 @@
-# Tarwtar-s-Portfolio
-<h3>Вітаю!! Неможливо виправдати ту щиру радість з якою я це все роблю/робила. Це мій улюблений реперсько-дабстепний гурт:</h3>
-  
+Tarwtar-s-Portfolio
 
- <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/ad5db88c-5ed4-4f7c-b954-949eff727093" width="900">
+<h3>Вітаю!! Неможливо виправдати ту щиру радість з якою я це все роблю/робила. Це мій улюблений реперсько-дабстепний гурт:</h3>
+
+
+<img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/c65306ef-19eb-4094-84e4-191d829ad520" width="700">
+<img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/82a09cb0-491b-48d1-b293-e02a2c9c446c" width="700">
+<img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/34d7fac1-ed5d-492d-8def-f46218d4ade2" width="700">
+<img src="" width="900">
+
+
+ <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/ad5db88c-5ed4-4f7c-b954-949eff727093" width="700">
 
 
   <img src="./add/onew.jpg" alt="onew" width="900" height="700"/>
 
 <h2>і дуже якщо вам сподобалось то тримайте ще сердешну пісню:</h2>
  ![] "https://youtu.be/6IZXFuv7PGM?si=I6c1MzTmac_dPBsb" width="900">
-
-
 
 
 
