@@ -13,6 +13,8 @@ Tarwtar-s-Portfolio
  <img src="./add/onew.jpg" alt="onew" width="900" height="700"/>
 
 <h2>і дуже якщо вам сподобалось то тримайте ще сердешну пісню:</h2>
- ![] "https://youtu.be/6IZXFuv7PGM?si=I6c1MzTmac_dPBsb" width="900">
+<img <iframe width="560" height="315" src="https://www.youtube.com/embed/6IZXFuv7PGM?si=rB9ND3UXCc3tvP3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>
+
+<img src="https://www.youtube.com/embed/6IZXFuv7PGM?si=rB9ND3UXCc3tvP3u" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin">
 
 
