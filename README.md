@@ -1,4 +1,7 @@
-Tarwtar-s-Portfolio
+
+<h1>
+$\mathcal{\color{pink}{tarwtar-s-portfolio}}$
+</h1>
 
 <h3>Вітаю!! Неможливо виправдати ту щиру радість з якою я це все роблю/робила. Це мій улюблений реперсько-дабстепний гурт:</h3>
 
@@ -22,6 +25,8 @@ Tarwtar-s-Portfolio
          wmode="transparent" width="425" height="350" />
 </object>
 
-[![AWESOME](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "AWESOME")
+[![EL2](https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/244e7f9d-ad5e-4540-9109-95333e45c5a6)
+](https://youtu.be/StTqXEQ2l-Y?t=35s "EL2")
 
 
+![EL2](https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/244e7f9d-ad5e-4540-9109-95333e45c5a6)
