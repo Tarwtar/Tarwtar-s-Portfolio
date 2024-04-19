@@ -10,11 +10,11 @@ Tarwtar-s-Portfolio
 <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/64eccc2b-6dc2-4600-bce2-4471cd35d6cd" width="700">
 <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/ad5db88c-5ed4-4f7c-b954-949eff727093" width="700">
  
- <img src="./add/onew.jpg" alt="onew" width="900" height="700"/>
+ <img src="./add/onew.jpg" alt="onew" width="700" height="500"/>
 
-<h2>і дуже якщо вам сподобалось то тримайте ще сердешну пісню:</h2>
-<img <iframe width="560" height="315" src="https://www.youtube.com/embed/6IZXFuv7PGM?si=rB9ND3UXCc3tvP3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>
+<h2>і якщо вам надто сподобалось то тримайте ще сердешну пісню:</h2>
 
-<img src="https://www.youtube.com/embed/6IZXFuv7PGM?si=rB9ND3UXCc3tvP3u" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin">
+<img width="426" alt="el" src="https://youtu.be/6IZXFuv7PGM">
+![](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/6IZXFuv7PGM)
 
 
