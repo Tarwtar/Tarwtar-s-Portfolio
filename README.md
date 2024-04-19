@@ -3,8 +3,8 @@
 $\mathcal{\color{pink}{tarwtar-s-portfolio}}$
 </h1>
 
-<h3>Вітаю!! Неможливо виправдати ту щиру радість з якою я це все роблю/робила. Це мій улюблений реперсько-дабстепний гурт:</h3>
-
+<h3>Вітаю!! Неможливо виправдати ту щиру радість з якою я це все роблю/робила.</h3>
+<h3>Це мій улюблений реперсько-дабстепний гурт:</h3>
 
 <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/c65306ef-19eb-4094-84e4-191d829ad520" width="850">
 <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/82a09cb0-491b-48d1-b293-e02a2c9c446c" width="850">
