@@ -13,7 +13,7 @@ $\mathcal{\color{pink}{tarwtar-s-portfolio}}$
 <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/64eccc2b-6dc2-4600-bce2-4471cd35d6cd" width="850">
 <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/ad5db88c-5ed4-4f7c-b954-949eff727093" width="850">
  
- <img src="./add/onew.jpg" alt="onew" width="850" height="640"/>
+ <img src="./add/onew.jpg" alt="onew" width="850" height="600"/>
 
 <h2>і якщо вам надто сподобалось то тримайте ще сердешну пісню:</h2>
 
