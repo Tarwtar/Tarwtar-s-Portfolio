@@ -9,17 +9,10 @@ Tarwtar-s-Portfolio
 <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/84a48a7a-8ac9-4ad5-bff6-9e7e64701e87" width="700">
 <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/64eccc2b-6dc2-4600-bce2-4471cd35d6cd" width="700">
 <img src="https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/ad5db88c-5ed4-4f7c-b954-949eff727093" width="700">
-
-
-  <img src="./add/onew.jpg" alt="onew" width="900" height="700"/>
+ 
+ <img src="./add/onew.jpg" alt="onew" width="900" height="700"/>
 
 <h2>і дуже якщо вам сподобалось то тримайте ще сердешну пісню:</h2>
  ![] "https://youtu.be/6IZXFuv7PGM?si=I6c1MzTmac_dPBsb" width="900">
 
-
-
-![last](https://github.com/Tarwtar/Tarwtar-s-Portfolio/assets/167477202/64eccc2b-6dc2-4600-bce2-4471cd35d6cd)
-
-
-</body>
 
