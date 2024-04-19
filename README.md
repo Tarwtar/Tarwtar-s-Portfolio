@@ -1,2 +1,5 @@
 # Tarwtar-s-Portfolio
-![](https://github.com/Tarwtar-s-Portfolio/animation2.gif.mp4)
+<h3>Вітаю!! Неможливо виправдати ту щиру радість з якою я це все роблю/робила. Це мій улюблений реперсько-дапстепний гурт:</h3>
+<gif src="./add/animation1.gif.mp4" alt="hello"/> 
+<img src="
+<img src="./add/onew.jpg" alt="onew"/>
