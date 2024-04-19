@@ -14,3 +14,4 @@ Tarwtar-s-Portfolio
 
 <h2>і якщо вам надто сподобалось то тримайте ще сердешну пісню:</h2>
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
