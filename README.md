@@ -14,7 +14,3 @@ Tarwtar-s-Portfolio
 
 <h2>і якщо вам надто сподобалось то тримайте ще сердешну пісню:</h2>
 
-<img width="426" alt="el" src="https://youtu.be/6IZXFuv7PGM">
-![](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/6IZXFuv7PGM)
-
-
